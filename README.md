@@ -22,3 +22,12 @@ The following picture can show a simple indication of this project.
 
 
 ![image](https://user-images.githubusercontent.com/98108605/195303240-5460d6ae-f789-4ea8-b78c-2238a1527b23.png)
+
+
+Different modules are developed in separated Jupyter notebooks to address these tradeoffs. These modules are:
+
+* Production module
+* Cost module
+* Energy consumption module
+* Emissions module
+* Trade-off analysis module
